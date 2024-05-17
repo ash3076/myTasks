@@ -1,0 +1,64 @@
+
+[
+  {
+    "task-title": "Morning run",
+    "description": "Should be more than 30 mins . It will give you 20 ashers per 30mins.",
+    "score": 20,
+    "isPos": false
+  },
+  {
+    "task-title": "Evening walk",
+    "description": "No time limit . It'll give you 12 ashers",
+    "score": 12,
+    "isPos": false
+  },
+  {
+    "task-title": "No game for a day",
+    "description": "If you don't play a computer / mobiel game for a day it'll give you 7 ashers.",
+    "score": 10,
+    "isPos": true,
+    "mustDo": false
+  },
+  {
+    "task-title": "scalp massage",
+    "description": "Scalp massage for atleast 10 minutes .",
+    "score": 5,
+    "isPos": true,
+ "mustDo": true
+  },
+  {
+    "task-title": "FM",
+    "description": "for atleast 10min will give you 5 ashers.",
+    "score": 5,
+    "isPos": true,
+ "mustDo": true
+  },
+  {
+    "task-title": "excercie/workout",
+    "description": "Daily workout will give you 20 ashers .",
+    "score": 10,
+    "isPos": true,
+ "mustDo": true
+  },
+  {
+    "task-title": "Taking new task",
+    "description": "If you start a new task it'll give you 5 ashers.",
+    "score": 5,
+    "isPos": true,
+ "mustDo": false
+  },
+  {
+    "task-title": "Completing any task",
+    "description": "If you complete teh given task then it'll give you 20 ashers.",
+    "score": 20,
+    "isPos": true,
+ "mustDo": false
+  },
+  {
+    "task-title": "Completing any task",
+    "description": "If you complete teh given task then it'll give you 20 ashers.",
+    "score": 20,
+    "isPos": true,
+ "mustDo": false
+  }
+]
